@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Magnet Hunter Ultra - 极速版",
+  "version": "3.0",
+  "description": "极速激活 + 并行提取",
+  "permissions": [
+    "tabs",
+    "scripting",
+    "downloads"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "提取磁力链接"
+  }
+}
