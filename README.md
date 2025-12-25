@@ -20,6 +20,9 @@
 2. **打开扩展中心**：在 Edge 浏览器地址栏输入 `edge://extensions/` 并回车。
 3. **开启开发者模式**：打开页面左侧（或顶部）的 **“开发人员模式” (Developer mode)** 开关。
 4. **加载插件**：点击出现的 **“加载解压缩的扩展” (Load unpacked)** 按钮，选择第 1 步中解压的文件夹。
+<img width="330" height="373" alt="image" src="https://github.com/user-attachments/assets/b21ebd3e-ebf6-4af6-b969-39a0d9c7ce6c" />
+
+<img width="881" height="179" alt="image" src="https://github.com/user-attachments/assets/32d0b3f7-cad2-4ac7-bb84-b11b994bc91e" />
 
 <img width="839" height="130" alt="image" src="https://github.com/user-attachments/assets/752b9c4c-2059-44d4-8163-1f3035ed6c67" />
 
